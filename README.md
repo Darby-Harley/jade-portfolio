@@ -23,7 +23,7 @@ Welcome to my web developer portfolio! This site showcases my projects, skills, 
 ---
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/)
+[View Live Portfolio](https://Darby-Harley.github.io/jade-portfolio/)
 
 ---
 
@@ -32,4 +32,4 @@ If you want to run this project locally:
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME.git
+git clone https://github.com/Darby-Harley/jade-portfolio.git
